@@ -1,4 +1,3 @@
-��#� �d�l�_�s�c�h�o�o�l�
-�
-�
+#dl_school
+
 Learning material and homeworks. There are not all materials, that I've learned
